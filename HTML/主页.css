@@ -1,0 +1,117 @@
+body{background: url(../image/主页.jpg)center;
+font-size: 25px;
+background-size: cover;
+text-align: center;
+-webkit-border-radius: 10px;
+}
+#contaniner1{margin: 0 ;
+width: 1500px;
+height:680px;
+background-color: none;
+position: relative;
+top: -18px;
+left: 9px;
+-webkit-border-radius: 10px;
+}
+#header{height:25px ;
+
+}
+#content{height:550px ;
+background-color: paleturquoise;
+margin-bottom: 5px;
+-webkit-border-radius:10px ;
+background-image:linear-gradient(to bottom right,#FFB5C5,#FFE4E1);
+opacity: 0.8;
+}
+#content-bg{opacity: 0.8;}
+#list{float: left;
+width:500px;
+height: 550px;
+background-color: #F5F5DC;
+background-image: linear-gradient(to top left,#87CEFA,#00FFFF);
+position: relative;
+
+}
+#aside1{float: left;
+width: 995px;
+height:550px;
+background-color: #00FFFF;
+-webkit-border-radius: 10px;
+opacity: 0.6;
+}
+#footer{height:40px;
+background-color: aquamarine;
+-webkit-border-radius:10px ;
+opacity: 0.8;}
+audio{display: none;
+-webkit-border-radius:10px ;}
+h1{position: relative;
+top: 11px;
+text-align: center;}
+h2{position: relative;
+top: 15px;
+text-align: center;}
+ul{list-style-type: none;
+margin: 0;
+padding: 0;
+position: relative;
+top: 105px;
+line-height: 40px;
+left: 150px;
+}
+a{
+	display: block;
+	width: 150px;
+	text-decoration: none;
+	background-color: lightgray
+}
+
+li{text-decoration: none;}
+#box1{
+                    width: 16px;
+                    height: 16px;
+                    background-color: black;
+                    border-radius: 100%;
+                    box-shadow: 0 0 0 5px #fff,0 0 0 10px #000;
+					position: relative;
+					top: 30px;
+					left: 150px;
+                }
+#box2{
+                    width: 16px;
+                    height: 16px;
+                    background-color: black;
+                    border-radius: 100%;
+                    box-shadow: 0 0 0 5px #fff,0 0 0 10px #000;
+					position: relative;
+					top: 30px;
+					left: 150px;
+                }
+#box3{
+                    width: 16px;
+                    height: 16px;
+                    background-color: black;
+                    border-radius: 100%;
+                    box-shadow: 0 0 0 5px #fff,0 0 0 10px #000;
+					position: relative;
+					top: 30px;
+					left: 150px;
+                }
+#box4{
+                    width: 16px;
+                    height: 16px;
+                    background-color: black;
+                    border-radius: 100%;
+                    box-shadow: 0 0 0 5px #fff,0 0 0 10px #000;
+					position: relative;
+					top: 30px;
+					left: 150px;
+                }
+p2{font-size: 25px;
+line-height: 55px;}
+p3{position: relative;
+top: 2px;
+}
+
+			
+

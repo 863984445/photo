@@ -1,0 +1,45 @@
+
+			 html,body{
+				height: 100%;
+				color: gray;
+				font-family:sans-serif;
+			}
+			 body{background:url(登录页面.jpg)center ;
+				 background-size:cover;
+				 margin: 0;
+				 padding: 0;
+				 position: relative;
+				 
+			}
+			#container{
+				width: 100%;
+				text-align: center;
+				position: absolute;
+				top: 50%;
+				transform:translateY(-50%);
+				    -ms-transform:translateY(-50%); /* IE 9 */            
+				    -moz-transform:translateY(-50%); /* Firefox */
+				    -webkit-transform:translateY(-50%); /* Safari
+				                                       and Chrome */
+				    -o-transform:translateY(-50%); /* Opera */
+					}
+			 h1{
+				font-size: 3.375rem;
+				text-transform: uppercase;
+				margin-bottom: 1.25rem;
+			}
+			 p{
+				font-size: 1.3125rem;
+				margin-bottom: 2.5rem;
+			}
+			 a{
+				font-size: 1.125rem;
+				color: #F5F5DC;
+				border: 0.0625rem solid ;
+				border-radius: 0.1875rem;
+				padding: 0.625rem 6.25rem;
+				text-decoration: none;
+				position: relative;
+				top: 20px;
+			}
+			

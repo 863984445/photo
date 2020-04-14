@@ -1,0 +1,98 @@
+*{margin: 0;
+padding: 0;}
+body{font-size: 15px;
+background :url(../image/爱琴海.jpg) center ;
+position: relative;
+background-size: cover;
+}
+
+#container{width:900px;
+margin: 0 auto;
+}
+#header{
+	height: 50px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+#nav{height: 30px;
+margin: 8px;
+background-color: #00FFFF;
+font:18px/30px;
+color: #fff;
+letter-spacing: 2px;
+text-align: center;
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	padding-top:4px;
+	padding-bottom:6px;
+	
+}
+li{display: inline;
+}
+#nav{
+	background-image: url(../image/土耳其爱琴海.jpg);
+}
+#nav a:link, #nav a:visited
+{
+font-weight:bold;
+color:#FFFFFF;
+background-color:gray;
+text-align:center;
+padding-left:20px;
+padding-right:20px ;
+margin: 50px;
+text-decoration:none;
+text-transform:uppercase;
+width: 100px;
+}
+#nav a:hover,#nav a:active{
+background-color:black;
+}
+#main{background-color: #000000;
+height: 600px;
+}
+.img
+  {
+  margin:3px;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+.img img
+  {
+  display:inline;
+  margin:8px;
+  border:1px solid #bebebe;
+  }
+.img a:hover img
+  {
+  border:1px solid #333333;
+  }
+.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:160px;
+  font-size:12px;
+  margin:10px 5px 10px 5px;
+  }
+#content{float: right;
+width: 900px;
+height: 600px;
+margin-bottom: 5px;
+background-image: url(../image/土耳其爱琴海.jpg);
+background-position: center;
+background-size: cover;
+opacity:0.98 ;
+}
+#footer{
+	height: 30px;
+	line-height: 60px;
+	background-image: url(../image/土耳其爱琴海2.jpg);
+	clear: both;
+	text-align: center;
+}
